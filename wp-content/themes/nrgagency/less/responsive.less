@@ -1,0 +1,146 @@
+/*-----------------------------------------------------------------------------------
+206 - RESPONSIVE STYLES
+-----------------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------------------
+Extra Small devices (Extra small devices Phones <768px)
+-----------------------------------------------------------------------------------*/
+@media (max-width: 767px) {
+	// xs
+
+	.testimonial-wrapper{
+		&.slider-type-circles{
+			.client-slide{
+				img{
+					width: 80% !important;
+				}
+			}
+		}
+	}
+
+	.wpb_tabs,
+	.wpb_tabs_extended{
+		.wpb_tabs_nav,
+		.vc_tta-tabs-list{
+			li {
+				width: 100%;
+			}
+		}
+	}
+
+
+	.wpb_tour{
+		&:not(.wpb_tour_extended){
+	        .wpb_tabs_nav{
+	            width: 100%;
+	            margin-bottom: 30px;
+	        }
+	        .wpb_tab{
+	            width: 100%;
+	        }
+	    }
+	}
+
+	.show-progress {
+		.number {
+			display: none;
+		}
+	}
+
+	.v-member-nav {
+		width: 100%!important;
+		border-right: none !important;
+		border-top: 1px solid #fff;
+		padding: 28px 15px;
+	}
+
+	.margin4x {
+		margin: 30px;
+	}
+
+	.margin5x {
+        margin: 40px;
+    }
+
+	body.left-side-menu {
+		padding-left: 0;
+		.vc_row {
+			padding-left: 0!important;
+		}
+
+		.pagination.hide {
+			display: block!important;
+			text-align: center;
+			padding-top: 0;
+		}
+
+		.pagination {
+			.swiper-pagination-switch {
+				width: 10px;
+				height: 10px;
+				border: none;
+				background: #ccc;
+			}
+		}
+
+		.pagination {
+			.swiper-active-switch {
+				background: @brand-color;
+				border: none;
+				&:after {
+					background: @brand-color;
+				}
+			}
+		}
+	}
+
+}
+
+
+/*-----------------------------------------------------------------------------------
+Small devices (tablets, 768px and up)
+-----------------------------------------------------------------------------------*/
+@media (min-width:768px) and (max-width: 991px) {
+	// sm
+
+	.nav-item-serv {
+		padding: 12px 12px 10px;
+		width: 100%;
+		max-width: 500px;
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	.show-progress {
+		.number {
+			display: none;
+		}
+	}
+
+
+	body.left-side-menu {
+		.margin5x { margin: 0; }
+		padding-left: 0;
+		.vc_row {
+			padding-left: 0!important;
+		}
+	}
+	
+}
+
+
+/*-----------------------------------------------------------------------------------
+Medium devices (desktops, 992px and up)
+-----------------------------------------------------------------------------------*/
+@media (min-width: 992px) and (max-width: 1199px) {
+	// md
+
+}
+
+
+/*-----------------------------------------------------------------------------------
+Large devices (large desktops, 1200px and up)
+-----------------------------------------------------------------------------------*/
+@media (min-width: 1200px) {
+	// lg
+
+}

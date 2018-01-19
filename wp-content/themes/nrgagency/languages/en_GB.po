@@ -1,0 +1,2081 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nine v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-06-09 11:42:27+0000\n"
+"Last-Translator: admin <test@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: comments.php:12
+#, php-format
+#@ themeton
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:39
+#@ themeton
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:60
+#: comments.php:62
+#: framework/current/vc-elements/boxed-team.php:58
+#: framework/current/vc-elements/model.php:44
+#: framework/current/vc-elements/price_box.php:81
+#: framework/current/vc-elements/tabbed_team.php:53
+#: framework/functions/functions.for.theme.php:153
+#: framework/functions/functions.for.theme.php:154
+#@ themeton
+msgid "Name"
+msgstr ""
+
+#: comments.php:66
+#: comments.php:68
+#: framework/functions/functions.for.theme.php:155
+#: framework/functions/functions.for.theme.php:156
+#@ themeton
+msgid "Email"
+msgstr ""
+
+#: comments.php:72
+#: comments.php:74
+#: framework/current/Shortcodes.php:371
+#: framework/functions/functions.for.theme.php:157
+#: framework/functions/functions.for.theme.php:158
+#@ themeton
+msgid "Website"
+msgstr ""
+
+#: comments.php:84
+#@ themeton
+msgid "Your email address will not be published."
+msgstr ""
+
+#: content-loop.php:6
+#: framework/current/vc-elements/blog-posts.php:47
+#@ themeton
+msgid "Read more"
+msgstr ""
+
+#: content.php:10
+#@ themeton
+msgid "Pages:"
+msgstr ""
+
+#: content.php:14
+#@ themeton
+msgid "Page"
+msgstr ""
+
+#: framework/classes/class.meta.post.php:52
+#@ themeton
+msgid "Delete image"
+msgstr ""
+
+#: framework/classes/class.meta.post.php:52
+#@ themeton
+msgid "Delete"
+msgstr ""
+
+#: framework/classes/class.meta.post.php:61
+#@ themeton
+msgid "Add post gallery images"
+msgstr ""
+
+#: framework/classes/class.meta.post.php:68
+#@ themeton
+msgid "Post Gallery"
+msgstr ""
+
+#: framework/classes/class.render.meta.fields.php:118
+#@ themeton
+msgid "Choose page..."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:226
+#: framework/functions/plugin-install.php:66
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:227
+#: framework/functions/plugin-install.php:67
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:228
+#: framework/functions/plugin-install.php:68
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:229
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:230
+#: framework/functions/plugin-install.php:70
+#, php-format
+#@ themeton
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:231
+#: framework/functions/plugin-install.php:71
+#, php-format
+#@ themeton
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:232
+#: framework/functions/plugin-install.php:72
+#, php-format
+#@ themeton
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:233
+#: framework/functions/plugin-install.php:73
+#, php-format
+#@ themeton
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:234
+#: framework/functions/plugin-install.php:74
+#, php-format
+#@ themeton
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:235
+#: framework/functions/plugin-install.php:75
+#, php-format
+#@ themeton
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:236
+#: framework/functions/plugin-install.php:76
+#, php-format
+#@ themeton
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:237
+#: framework/functions/plugin-install.php:77
+#, php-format
+#@ themeton
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:238
+#: framework/functions/plugin-install.php:78
+#@ themeton
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:239
+#: framework/functions/plugin-install.php:79
+#@ themeton
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:240
+#: framework/functions/plugin-install.php:80
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:241
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:242
+#: framework/classes/class.tgm.plugin.activation.php:2051
+#: framework/functions/plugin-install.php:81
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:244
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:245
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:589
+#: framework/classes/class.tgm.plugin.activation.php:2269
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1267
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1270
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1275
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1278
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1278
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1281
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1283
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1399
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1421
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1461
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1477
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1478
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1479
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1480
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1498
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1499
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1610
+#@ tgmpa
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:1715
+#@ tgmpa
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: framework/classes/class.tgm.plugin.activation.php:1737
+#: framework/classes/class.tgm.plugin.activation.php:243
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2034
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2035
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2036
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2037
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2038
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2039
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2050
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2162
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2163
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2167
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2168
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2168
+#: framework/classes/class.tgm.plugin.activation.php:2175
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2168
+#: framework/classes/class.tgm.plugin.activation.php:2175
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2169
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2170
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2174
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2175
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2176
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/classes/class.tgm.plugin.activation.php:2177
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/classes/class.woo.commerce.php:44
+#@ themeton
+msgid "quick view"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:53
+#: framework/classes/class.wp.customize.controls.php:92
+#@ themeton
+msgid "Remove"
+msgstr ""
+
+#: framework/classes/class.wp.customize.controls.php:142
+#@ default
+msgid "1on"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/parsers.php:42
+#: framework/classes/lib/wp.importer/parsers.php:72
+#: framework/classes/lib/wp.importer/parsers.php:80
+#@ wordpress-importer
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/parsers.php:43
+#@ wordpress-importer
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/parsers.php:84
+#: framework/classes/lib/wp.importer/parsers.php:89
+#: framework/classes/lib/wp.importer/parsers.php:279
+#: framework/classes/lib/wp.importer/parsers.php:466
+#@ wordpress-importer
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:136
+#: framework/classes/lib/wp.importer/wp.importer.php:145
+#: framework/classes/lib/wp.importer/wp.importer.php:196
+#: framework/classes/lib/wp.importer/wp.importer.php:200
+#: framework/classes/lib/wp.importer/wp.importer.php:209
+#@ wordpress-importer
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:137
+#@ wordpress-importer
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:180
+#@ wordpress-importer
+msgid "All done."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:180
+#@ wordpress-importer
+msgid "Have fun!"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:181
+#@ wordpress-importer
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:201
+#, php-format
+#@ wordpress-importer
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:217
+#, php-format
+#@ wordpress-importer
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:242
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:268
+#@ wordpress-importer
+msgid "Assign Authors"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:269
+#@ wordpress-importer
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:271
+#, php-format
+#@ wordpress-importer
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:281
+#@ wordpress-importer
+msgid "Import Attachments"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:284
+#@ wordpress-importer
+msgid "Download and import file attachments"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:288
+#@ wordpress-importer
+msgid "Submit"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:301
+#@ wordpress-importer
+msgid "Import author:"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:312
+#@ wordpress-importer
+msgid "or create new user with login name:"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:315
+#@ wordpress-importer
+msgid "as a new user:"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:323
+#@ wordpress-importer
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:325
+#@ wordpress-importer
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:326
+#@ wordpress-importer
+msgid "- Select -"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:376
+#, php-format
+#@ wordpress-importer
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:427
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import category %s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:467
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:513
+#: framework/classes/lib/wp.importer/wp.importer.php:654
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:539
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:561
+#, php-format
+#@ wordpress-importer
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:620
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:785
+#@ wordpress-importer
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:792
+#, php-format
+#@ wordpress-importer
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:855
+#@ wordpress-importer
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:868
+#@ wordpress-importer
+msgid "Invalid file type"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:912
+#@ wordpress-importer
+msgid "Remote server did not respond"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:918
+#, php-format
+#@ wordpress-importer
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:925
+#@ wordpress-importer
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:930
+#@ wordpress-importer
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:936
+#, php-format
+#@ wordpress-importer
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:1034
+#@ wordpress-importer
+msgid "Import WordPress"
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:1041
+#, php-format
+#@ wordpress-importer
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:1056
+#@ wordpress-importer
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: framework/classes/lib/wp.importer/wp.importer.php:1057
+#@ wordpress-importer
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:60
+#@ themeton
+msgid "After Text"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:68
+#@ themeton
+msgid "One Page Section <small>(One page template only)</small>"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:71
+#: framework/current/Shortcodes.php:426
+#: framework/current/Shortcodes.php:436
+#: framework/current/vc-elements/boxed-team-container.php:65
+#: framework/current/vc-elements/extended-tabs.php:73
+#: framework/current/vc-elements/extended-tabs.php:84
+#: framework/current/vc-elements/price-box-container.php:65
+#@ themeton
+msgid "No"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:72
+#: framework/current/vc-elements/boxed-team-container.php:64
+#: framework/current/vc-elements/extended-tabs.php:72
+#: framework/current/vc-elements/extended-tabs.php:83
+#: framework/current/vc-elements/price-box-container.php:64
+#@ themeton
+msgid "Yes"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:78
+#@ themeton
+msgid "Section Label"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:86
+#@ themeton
+msgid "Section slug"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:87
+#@ themeton
+msgid "Don't need hash tag (#). You can apply a custom link to redirect."
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:96
+#@ themeton
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:99
+#: framework/current/ExtendVCRow.php:110
+#: framework/current/ExtendVCRow.php:123
+#@ themeton
+msgid "None"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:100
+#@ themeton
+msgid "Left"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:101
+#@ themeton
+msgid "Center"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:102
+#@ themeton
+msgid "Right"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:107
+#: framework/current/ExtendVCRow.php:120
+#@ themeton
+msgid "Vertical Alignment"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:111
+#: framework/current/ExtendVCRow.php:124
+#@ themeton
+msgid "Top"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:112
+#: framework/current/ExtendVCRow.php:125
+#@ themeton
+msgid "Middle"
+msgstr ""
+
+#: framework/current/ExtendVCRow.php:113
+#: framework/current/ExtendVCRow.php:126
+#@ themeton
+msgid "Bottom"
+msgstr ""
+
+#: framework/current/GridElement.php:35
+#@ themeton
+msgid "Cards Grid"
+msgstr ""
+
+#: framework/current/GridElement.php:36
+#@ themeton
+msgid "Card Elements from posts and custom post types"
+msgstr ""
+
+#: framework/current/GridElement.php:40
+#: framework/current/Shortcodes.php:55
+#: framework/current/Shortcodes.php:65
+#: framework/current/Shortcodes.php:109
+#: framework/current/Shortcodes.php:180
+#: framework/current/Shortcodes.php:341
+#: framework/current/Shortcodes.php:394
+#: framework/current/vc-elements/blog-posts.php:68
+#: framework/current/vc-elements/boxed-team-container.php:47
+#: framework/current/vc-elements/boxed-team.php:53
+#: framework/current/vc-elements/boxed-testimonial-container.php:36
+#: framework/current/vc-elements/carousel-container.php:56
+#: framework/current/vc-elements/circle-testimonial.php:47
+#: framework/current/vc-elements/contact-box.php:26
+#: framework/current/vc-elements/counter.php:34
+#: framework/current/vc-elements/customer-logo.php:25
+#: framework/current/vc-elements/image-heading.php:31
+#: framework/current/vc-elements/image-zoom-gallery.php:24
+#: framework/current/vc-elements/image-zoom-light-box.php:28
+#: framework/current/vc-elements/info-gallery-item.php:37
+#: framework/current/vc-elements/info-gallery.php:37
+#: framework/current/vc-elements/model-container.php:36
+#: framework/current/vc-elements/model.php:31
+#: framework/current/vc-elements/panel.php:26
+#: framework/current/vc-elements/portfolio.php:173
+#: framework/current/vc-elements/price-box-container.php:47
+#: framework/current/vc-elements/price_box.php:59
+#: framework/current/vc-elements/price_table.php:46
+#: framework/current/vc-elements/progress-bar.php:47
+#: framework/current/vc-elements/project-logo.php:39
+#: framework/current/vc-elements/service-box.php:42
+#: framework/current/vc-elements/tabbed-team-container.php:34
+#: framework/current/vc-elements/tabbed_team.php:40
+#: framework/current/vc-elements/team-carousel.php:34
+#: framework/current/vc-elements/team-item.php:29
+#: framework/current/vc-elements/testimonial-container.php:38
+#: framework/current/vc-elements/testimonial.php:45
+#: framework/current/vc-elements/timeline-carousel-container.php:34
+#: framework/current/vc-elements/timeline.php:38
+#@ themeton
+msgid "Themeton"
+msgstr ""
+
+#: framework/current/GridElement.php:46
+#@ themeton
+msgid "Card Style"
+msgstr ""
+
+#: framework/current/GridElement.php:58
+#: framework/current/Shortcodes.php:411
+#: framework/current/vc-elements/image-zoom-gallery.php:29
+#: framework/current/vc-elements/portfolio.php:194
+#@ themeton
+msgid "Column"
+msgstr ""
+
+#: framework/current/GridElement.php:71
+#@ themeton
+msgid "Filter"
+msgstr ""
+
+#: framework/current/GridElement.php:73
+#@ themeton
+msgid "No Filter/Categories"
+msgstr ""
+
+#: framework/current/GridElement.php:74
+#@ themeton
+msgid "Show Filter/Categories"
+msgstr ""
+
+#: framework/current/GridElement.php:81
+#@ themeton
+msgid "Pager"
+msgstr ""
+
+#: framework/current/GridElement.php:91
+#@ vc_extend
+msgid "Grids Content"
+msgstr ""
+
+#: framework/current/GridElement.php:97
+#: framework/current/Shortcodes.php:406
+#@ vc_extend
+msgid "Create WordPress loop, to populate content from your site."
+msgstr ""
+
+#: framework/current/GridElement.php:102
+#@ vc_extend
+msgid "Exclude posts"
+msgstr ""
+
+#: framework/current/GridElement.php:104
+#@ vc_extend
+msgid "Please add post IDs separated by comma. Example: 125,1,65."
+msgstr ""
+
+#: framework/current/GridElement.php:109
+#: framework/current/Shortcodes.php:95
+#: framework/current/Shortcodes.php:166
+#: framework/current/Shortcodes.php:326
+#: framework/current/Shortcodes.php:378
+#: framework/current/Shortcodes.php:444
+#: framework/current/vc-elements/boxed-team-container.php:71
+#: framework/current/vc-elements/boxed-testimonial-container.php:41
+#: framework/current/vc-elements/circle-testimonial.php:78
+#: framework/current/vc-elements/contact-box.php:52
+#: framework/current/vc-elements/counter.php:90
+#: framework/current/vc-elements/image-heading.php:70
+#: framework/current/vc-elements/image-zoom-light-box.php:40
+#: framework/current/vc-elements/model-container.php:41
+#: framework/current/vc-elements/panel.php:44
+#: framework/current/vc-elements/price-box-container.php:71
+#: framework/current/vc-elements/tabbed-team-container.php:39
+#: framework/current/vc-elements/team-carousel.php:39
+#: framework/current/vc-elements/testimonial-container.php:43
+#: framework/current/vc-elements/testimonial.php:76
+#: framework/current/vc-elements/timeline-carousel-container.php:39
+#@ vc_extend
+msgid "Extra Class"
+msgstr ""
+
+#: framework/current/GridElement.php:111
+#: framework/current/Shortcodes.php:97
+#: framework/current/Shortcodes.php:168
+#: framework/current/Shortcodes.php:328
+#: framework/current/Shortcodes.php:380
+#: framework/current/Shortcodes.php:446
+#: framework/current/vc-elements/boxed-team-container.php:73
+#: framework/current/vc-elements/boxed-testimonial-container.php:43
+#: framework/current/vc-elements/circle-testimonial.php:80
+#: framework/current/vc-elements/contact-box.php:54
+#: framework/current/vc-elements/counter.php:92
+#: framework/current/vc-elements/image-heading.php:72
+#: framework/current/vc-elements/image-zoom-light-box.php:42
+#: framework/current/vc-elements/model-container.php:43
+#: framework/current/vc-elements/panel.php:46
+#: framework/current/vc-elements/price-box-container.php:73
+#: framework/current/vc-elements/tabbed-team-container.php:41
+#: framework/current/vc-elements/team-carousel.php:41
+#: framework/current/vc-elements/testimonial-container.php:45
+#: framework/current/vc-elements/testimonial.php:78
+#: framework/current/vc-elements/timeline-carousel-container.php:41
+#@ vc_extend
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: framework/current/GridElement.php:228
+#: framework/current/GridElement.php:245
+#@ themeton
+msgid "Read More"
+msgstr ""
+
+#: framework/current/GridElement.php:273
+#@ themeton
+msgid "View More"
+msgstr ""
+
+#: framework/current/GridElement.php:322
+#@ themeton
+msgid "Show All"
+msgstr ""
+
+#: framework/current/GridElement.php:362
+#, php-format
+#@ vc_extend
+msgid "<strong>%s</strong> requires <strong><a href=\"http://bit.ly/vcomposer\" target=\"_blank\">Visual Composer</a></strong> plugin to be installed and activated on your site."
+msgstr ""
+
+#: framework/current/Shortcodes.php:50
+#@ themeton
+msgid "Social Icons"
+msgstr ""
+
+#: framework/current/Shortcodes.php:51
+#@ themeton
+msgid "Social Icon & Link & Button"
+msgstr ""
+
+#: framework/current/Shortcodes.php:60
+#@ themeton
+msgid "Icon Frame"
+msgstr ""
+
+#: framework/current/Shortcodes.php:61
+#@ themeton
+msgid "Brand coloured border with a corner icon"
+msgstr ""
+
+#: framework/current/Shortcodes.php:73
+#: framework/current/Shortcodes.php:140
+#: framework/current/Shortcodes.php:265
+#: framework/current/vc-elements/counter.php:65
+#: framework/current/vc-elements/extended-tabs.php:114
+#: framework/current/vc-elements/price_table.php:85
+#: framework/current/vc-elements/service-box.php:72
+#@ themeton
+msgid "Icon"
+msgstr ""
+
+#: framework/current/Shortcodes.php:85
+#@ themeton
+msgid "Block element?"
+msgstr ""
+
+#: framework/current/Shortcodes.php:104
+#: framework/current/vc-elements/counter.php:29
+#@ themeton
+msgid "Counter"
+msgstr ""
+
+#: framework/current/Shortcodes.php:105
+#: framework/current/vc-elements/counter.php:30
+#@ themeton
+msgid "Animated numbers"
+msgstr ""
+
+#: framework/current/Shortcodes.php:115
+#: framework/current/Shortcodes.php:240
+#: framework/current/vc-elements/counter.php:40
+#: framework/current/vc-elements/service-box.php:47
+#@ themeton
+msgid "Icon Type"
+msgstr ""
+
+#: framework/current/Shortcodes.php:125
+#: framework/current/Shortcodes.php:250
+#: framework/current/vc-elements/counter.php:50
+#: framework/current/vc-elements/image-zoom-light-box.php:33
+#: framework/current/vc-elements/info-gallery-item.php:42
+#: framework/current/vc-elements/service-box.php:57
+#@ themeton
+msgid "Image Image"
+msgstr ""
+
+#: framework/current/Shortcodes.php:132
+#: framework/current/Shortcodes.php:257
+#: framework/current/vc-elements/counter.php:57
+#: framework/current/vc-elements/service-box.php:64
+#@ themeton
+msgid "Image Size"
+msgstr ""
+
+#: framework/current/Shortcodes.php:153
+#: framework/current/vc-elements/counter.php:78
+#@ themeton
+msgid "Number value"
+msgstr ""
+
+#: framework/current/Shortcodes.php:159
+#: framework/current/vc-elements/counter.php:84
+#@ themeton
+msgid "Text caption"
+msgstr ""
+
+#: framework/current/Shortcodes.php:175
+#@ themeton
+msgid "Icon Service"
+msgstr ""
+
+#: framework/current/Shortcodes.php:176
+#@ themeton
+msgid "Icon & Service Text combination"
+msgstr ""
+
+#: framework/current/Shortcodes.php:186
+#@ themeton
+msgid "Service Layout"
+msgstr ""
+
+#: framework/current/Shortcodes.php:203
+#@ themeton
+msgid "Background color"
+msgstr ""
+
+#: framework/current/Shortcodes.php:210
+#: framework/current/vc-elements/image-heading.php:64
+#@ themeton
+msgid "Text color"
+msgstr ""
+
+#: framework/current/Shortcodes.php:219
+#@ themeton
+msgid "Border color"
+msgstr ""
+
+#: framework/current/Shortcodes.php:226
+#@ themeton
+msgid "Border width <small>(in pixels)</small>"
+msgstr ""
+
+#: framework/current/Shortcodes.php:233
+#@ themeton
+msgid "Border radius <small>(in pixels)</small>"
+msgstr ""
+
+#: framework/current/Shortcodes.php:278
+#@ themeton
+msgid "Icon color"
+msgstr ""
+
+#: framework/current/Shortcodes.php:285
+#@ themeton
+msgid "Icon Size"
+msgstr ""
+
+#: framework/current/Shortcodes.php:297
+#@ themeton
+msgid "Icon link (optional)"
+msgstr ""
+
+#: framework/current/Shortcodes.php:303
+#@ themeton
+msgid "Service Title"
+msgstr ""
+
+#: framework/current/Shortcodes.php:309
+#: framework/current/vc-elements/carousel-container.php:90
+#: framework/current/vc-elements/info-gallery-item.php:49
+#: framework/current/vc-elements/model.php:50
+#: framework/current/vc-elements/price_box.php:87
+#: framework/current/vc-elements/price_table.php:97
+#: framework/current/vc-elements/progress-bar.php:62
+#: framework/current/vc-elements/project-logo.php:63
+#: framework/current/vc-elements/service-box.php:92
+#: framework/current/vc-elements/team-item.php:48
+#: framework/current/vc-elements/timeline.php:62
+#@ themeton
+#@ vc_extend
+msgid "Description"
+msgstr ""
+
+#: framework/current/Shortcodes.php:315
+#@ themeton
+msgid "Options"
+msgstr ""
+
+#: framework/current/Shortcodes.php:336
+#@ themeton
+msgid "Address Box"
+msgstr ""
+
+#: framework/current/Shortcodes.php:337
+#@ themeton
+msgid "Address widget, list, contact info"
+msgstr ""
+
+#: framework/current/Shortcodes.php:347
+#: framework/current/vc-elements/carousel-container.php:71
+#: framework/current/vc-elements/portfolio.php:188
+#: framework/current/vc-elements/price_table.php:51
+#: framework/current/vc-elements/service-box.php:85
+#: framework/current/vc-elements/timeline.php:56
+#@ themeton
+msgid "Title"
+msgstr ""
+
+#: framework/current/Shortcodes.php:353
+#@ themeton
+msgid "Contact address"
+msgstr ""
+
+#: framework/current/Shortcodes.php:359
+#@ themeton
+msgid "Phone number"
+msgstr ""
+
+#: framework/current/Shortcodes.php:365
+#@ themeton
+msgid "Email address"
+msgstr ""
+
+#: framework/current/Shortcodes.php:389
+#@ themeton
+msgid "Blog Element"
+msgstr ""
+
+#: framework/current/Shortcodes.php:390
+#@ themeton
+msgid "Grid posts, Any post types"
+msgstr ""
+
+#: framework/current/Shortcodes.php:400
+#: framework/current/vc-elements/contact-box.php:44
+#: framework/current/vc-elements/panel.php:38
+#@ vc_extend
+#@ themeton
+msgid "Content"
+msgstr ""
+
+#: framework/current/Shortcodes.php:424
+#@ themeton
+msgid "Show Date"
+msgstr ""
+
+#: framework/current/Shortcodes.php:427
+#: framework/current/Shortcodes.php:437
+#@ themeton
+msgid "Show"
+msgstr ""
+
+#: framework/current/Shortcodes.php:434
+#@ themeton
+msgid "Read More Link"
+msgstr ""
+
+#: framework/current/Shortcodes.php:688
+#: tpl-page-title.php:55
+#: tpl-page-title.php:67
+#, php-format
+#@ themeton
+msgid "View all posts in %s"
+msgstr ""
+
+#: framework/current/Shortcodes.php:690
+#@ themeton
+msgid "READ MORE"
+msgstr ""
+
+#: framework/current/template-tags.php:135
+#@ themeton
+msgid "Pages"
+msgstr ""
+
+#: framework/current/template-tags.php:229
+#@ themeton
+msgid "Related Projects"
+msgstr ""
+
+#: framework/current/template-tags.php:238
+#@ themeton
+msgid "You might also like"
+msgstr ""
+
+#: framework/current/template-tags.php:349
+#@ themeton
+msgid "Type and hit Enter ..."
+msgstr ""
+
+#: framework/current/template-tags.php:350
+#@ themeton
+msgid "Go"
+msgstr ""
+
+#: framework/current/template-tags.php:453
+#@ themeton
+msgid "No Comments"
+msgstr ""
+
+#: framework/current/template-tags.php:455
+#@ themeton
+msgid "1 Comment"
+msgstr ""
+
+#: framework/current/template-tags.php:457
+#@ themeton
+msgid " Comments"
+msgstr ""
+
+#: framework/current/template-tags.php:473
+#@ themeton
+msgid "Comment navigation"
+msgstr ""
+
+#: framework/current/template-tags.php:476
+#@ themeton
+msgid "Older Comments"
+msgstr ""
+
+#: framework/current/template-tags.php:480
+#@ themeton
+msgid "Newer Comments"
+msgstr ""
+
+#: framework/current/template-tags.php:525
+#@ themeton
+msgctxt "Used between list items, there is a space after the comma."
+msgid " "
+msgstr ""
+
+#: framework/current/template-tags.php:528
+#@ themeton
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: framework/current/template-tags.php:538
+#@ themeton
+msgid "Share on:"
+msgstr ""
+
+#: framework/current/template-tags.php:611
+#, php-format
+#@ themeton
+msgid "<h3 class=\"comment-user-name\">%s</h5>"
+msgstr ""
+
+#: framework/current/template-tags.php:613
+#, php-format
+#@ themeton
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/current/template-tags.php:618
+#@ themeton
+msgid "(Edit)"
+msgstr ""
+
+#: framework/current/templates.php:1
+#@ themeton
+msgid "01: Portfolio Single Layout"
+msgstr ""
+
+#: framework/current/vc-elements/blog-posts.php:63
+#@ themeton
+msgid "Blog Posts"
+msgstr ""
+
+#: framework/current/vc-elements/blog-posts.php:64
+#@ themeton
+msgid "Only post type: post"
+msgstr ""
+
+#: framework/current/vc-elements/blog-posts.php:73
+#@ themeton
+msgid "Posts Count"
+msgstr ""
+
+#: framework/current/vc-elements/blog-posts.php:79
+#: framework/current/vc-elements/portfolio.php:234
+#@ themeton
+msgid "Categories"
+msgstr ""
+
+#: framework/current/vc-elements/blog-posts.php:80
+#: framework/current/vc-elements/portfolio.php:235
+#@ themeton
+msgid "Specify category Id or leave blank to display items from all categories."
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team-container.php:39
+#@ themeton
+msgid "Boxed Team Carousel"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team-container.php:40
+#@ themeton
+msgid "Boxed Team Slider"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team-container.php:51
+#@ themeton
+msgid "How many member displays?"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team-container.php:54
+#: framework/current/vc-elements/price-box-container.php:54
+#@ themeton
+msgid "Three"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team-container.php:55
+#: framework/current/vc-elements/price-box-container.php:55
+#@ themeton
+msgid "Four"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team-container.php:56
+#: framework/current/vc-elements/price-box-container.php:56
+#@ themeton
+msgid "Five"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team-container.php:61
+#: framework/current/vc-elements/price-box-container.php:61
+#@ themeton
+msgid "Display navigation?"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team.php:47
+#: framework/current/vc-elements/boxed-team.php:48
+#@ themeton
+msgid "Boxed team"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team.php:65
+#: framework/current/vc-elements/tabbed_team.php:59
+#@ themeton
+msgid "Position"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team.php:71
+#: framework/current/vc-elements/circle-testimonial.php:54
+#: framework/current/vc-elements/model.php:38
+#: framework/current/vc-elements/price_box.php:93
+#: framework/current/vc-elements/project-logo.php:50
+#: framework/current/vc-elements/tabbed_team.php:47
+#: framework/current/vc-elements/team-item.php:36
+#: framework/current/vc-elements/testimonial.php:52
+#: framework/current/vc-elements/timeline.php:43
+#@ themeton
+msgid "Image"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team.php:77
+#: framework/current/vc-elements/tabbed_team.php:71
+#@ themeton
+msgid "Facebook (optional)"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team.php:83
+#: framework/current/vc-elements/tabbed_team.php:77
+#@ themeton
+msgid "Twitter (optional)"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team.php:89
+#: framework/current/vc-elements/tabbed_team.php:83
+#@ themeton
+msgid "Google+ (optional)"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team.php:95
+#: framework/current/vc-elements/tabbed_team.php:89
+#@ themeton
+msgid "Linkedin (optional)"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-team.php:101
+#@ themeton
+msgid "Social Icon Color"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-testimonial-container.php:28
+#@ themeton
+msgid "Boxed Testimonial Carousel"
+msgstr ""
+
+#: framework/current/vc-elements/boxed-testimonial-container.php:29
+#@ themeton
+msgid "Boxed Testimonial Slider"
+msgstr ""
+
+#: framework/current/vc-elements/carousel-container.php:48
+#@ themeton
+msgid "Carousel"
+msgstr ""
+
+#: framework/current/vc-elements/carousel-container.php:49
+#@ themeton
+msgid "Image, Team, Service"
+msgstr ""
+
+#: framework/current/vc-elements/carousel-container.php:61
+#@ themeton
+msgid "Carousel Layout"
+msgstr ""
+
+#: framework/current/vc-elements/carousel-container.php:78
+#@ themeton
+msgid "Items"
+msgstr ""
+
+#: framework/current/vc-elements/carousel-container.php:84
+#@ themeton
+msgid "Autoplay Duration (ms)"
+msgstr ""
+
+#: framework/current/vc-elements/circle-testimonial.php:42
+#@ themeton
+msgid "Circle Testimonial"
+msgstr ""
+
+#: framework/current/vc-elements/circle-testimonial.php:43
+#: framework/current/vc-elements/testimonial.php:41
+#@ themeton
+msgid "For Quote, Blockquote & User Feedback"
+msgstr ""
+
+#: framework/current/vc-elements/circle-testimonial.php:60
+#@ themeton
+msgid "Star number"
+msgstr ""
+
+#: framework/current/vc-elements/circle-testimonial.php:66
+#: framework/current/vc-elements/testimonial.php:58
+#@ themeton
+msgid "Quote"
+msgstr ""
+
+#: framework/current/vc-elements/circle-testimonial.php:72
+#: framework/current/vc-elements/team-item.php:42
+#: framework/current/vc-elements/testimonial.php:64
+#@ themeton
+msgid "Author"
+msgstr ""
+
+#: framework/current/vc-elements/contact-box.php:22
+#@ themeton
+msgid "Contact box"
+msgstr ""
+
+#: framework/current/vc-elements/contact-box.php:23
+#@ themeton
+msgid "Style contact page details"
+msgstr ""
+
+#: framework/current/vc-elements/contact-box.php:31
+#@ themeton
+msgid "Image icon"
+msgstr ""
+
+#: framework/current/vc-elements/contact-box.php:37
+#: framework/current/vc-elements/panel.php:31
+#@ themeton
+msgid "Panel title"
+msgstr ""
+
+#: framework/current/vc-elements/customer-logo.php:19
+#@ themeton
+msgid "Customer Logos"
+msgstr ""
+
+#: framework/current/vc-elements/customer-logo.php:20
+#@ themeton
+msgid "Only for Carousel"
+msgstr ""
+
+#: framework/current/vc-elements/customer-logo.php:30
+#@ themeton
+msgid "Logo Image"
+msgstr ""
+
+#: framework/current/vc-elements/customer-logo.php:36
+#: framework/current/vc-elements/price_box.php:106
+#: framework/current/vc-elements/project-logo.php:69
+#@ themeton
+msgid "Link"
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:58
+#@ themeton
+msgid "Tabs Style"
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:61
+#@ themeton
+msgid "Default"
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:62
+#@ themeton
+msgid "Process"
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:63
+#@ themeton
+msgid "Service"
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:69
+#@ themeton
+msgid "Show Process Number"
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:80
+#@ themeton
+msgid "Show Progress"
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:91
+#@ themeton
+msgid "Content Background Image"
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:98
+#@ themeton
+msgid "Background Image Brightness"
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:101
+#@ themeton
+msgid "Dark"
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:102
+#@ themeton
+msgid "Light"
+msgstr ""
+
+#: framework/current/vc-elements/extended-tabs.php:125
+#@ themeton
+msgid "Process number"
+msgstr ""
+
+#: framework/current/vc-elements/image-heading.php:26
+#@ themeton
+msgid "Image Heading"
+msgstr ""
+
+#: framework/current/vc-elements/image-heading.php:27
+#@ themeton
+msgid "Image decorated heading"
+msgstr ""
+
+#: framework/current/vc-elements/image-heading.php:36
+#@ themeton
+msgid "Heading text"
+msgstr ""
+
+#: framework/current/vc-elements/image-heading.php:43
+#@ themeton
+msgid "Image Style"
+msgstr ""
+
+#: framework/current/vc-elements/image-heading.php:53
+#@ themeton
+msgid "Align"
+msgstr ""
+
+#: framework/current/vc-elements/image-zoom-gallery.php:16
+#@ themeton
+msgid "Image Zoom Gallery"
+msgstr ""
+
+#: framework/current/vc-elements/image-zoom-gallery.php:17
+#@ themeton
+msgid "Image Zoom Light Box Gallery"
+msgstr ""
+
+#: framework/current/vc-elements/image-zoom-light-box.php:23
+#: framework/current/vc-elements/image-zoom-light-box.php:24
+#@ themeton
+msgid "Image Zoom with LightBox"
+msgstr ""
+
+#: framework/current/vc-elements/info-gallery-item.php:32
+#@ themeton
+msgid "Info Gallery Item"
+msgstr ""
+
+#: framework/current/vc-elements/info-gallery.php:29
+#@ themeton
+msgid "Info Gallery"
+msgstr ""
+
+#: framework/current/vc-elements/info-gallery.php:30
+#@ themeton
+msgid "Image and description gallery"
+msgstr ""
+
+#: framework/current/vc-elements/info-gallery.php:42
+#@ themeton
+msgid "Navigation Style"
+msgstr ""
+
+#: framework/current/vc-elements/model-container.php:28
+#@ themeton
+msgid "Model Carousel"
+msgstr ""
+
+#: framework/current/vc-elements/model-container.php:29
+#@ themeton
+msgid "Model Container"
+msgstr ""
+
+#: framework/current/vc-elements/model.php:26
+#@ themeton
+msgid "Model"
+msgstr ""
+
+#: framework/current/vc-elements/model.php:27
+#@ themeton
+msgid "Model item"
+msgstr ""
+
+#: framework/current/vc-elements/panel.php:22
+#@ themeton
+msgid "Panel content"
+msgstr ""
+
+#: framework/current/vc-elements/panel.php:23
+#@ themeton
+msgid "Panel style with your content"
+msgstr ""
+
+#: framework/current/vc-elements/portfolio.php:114
+#: framework/current/vc-elements/portfolio.php:125
+#@ themeton
+msgid "all"
+msgstr ""
+
+#: framework/current/vc-elements/portfolio.php:134
+#@ themeton
+msgid "View all works"
+msgstr ""
+
+#: framework/current/vc-elements/portfolio.php:168
+#@ themeton
+msgid "Portfolio"
+msgstr ""
+
+#: framework/current/vc-elements/portfolio.php:169
+#@ themeton
+msgid "post type: portfolio"
+msgstr ""
+
+#: framework/current/vc-elements/portfolio.php:178
+#@ themeton
+msgid "Portfolio Style"
+msgstr ""
+
+#: framework/current/vc-elements/portfolio.php:208
+#@ themeton
+msgid "Posts per page"
+msgstr ""
+
+#: framework/current/vc-elements/portfolio.php:214
+#@ themeton
+msgid "Show Filter"
+msgstr ""
+
+#: framework/current/vc-elements/price-box-container.php:39
+#: framework/current/vc-elements/price-box-container.php:40
+#@ themeton
+msgid "Price Box Container"
+msgstr ""
+
+#: framework/current/vc-elements/price-box-container.php:51
+#@ themeton
+msgid "How many box display?"
+msgstr ""
+
+#: framework/current/vc-elements/price_box.php:54
+#: framework/current/vc-elements/price_box.php:55
+#@ themeton
+msgid "Price Box"
+msgstr ""
+
+#: framework/current/vc-elements/price_box.php:64
+#@ themeton
+msgid "Price Box Style"
+msgstr ""
+
+#: framework/current/vc-elements/price_box.php:67
+#@ themeton
+msgid "Image bottom"
+msgstr ""
+
+#: framework/current/vc-elements/price_box.php:68
+#@ themeton
+msgid "Image top"
+msgstr ""
+
+#: framework/current/vc-elements/price_box.php:74
+#: framework/current/vc-elements/price_table.php:73
+#@ themeton
+msgid "Price"
+msgstr ""
+
+#: framework/current/vc-elements/price_box.php:99
+#@ themeton
+msgid "Button text"
+msgstr ""
+
+#: framework/current/vc-elements/price_table.php:41
+#: framework/current/vc-elements/price_table.php:42
+#@ themeton
+msgid "Price Table"
+msgstr ""
+
+#: framework/current/vc-elements/price_table.php:58
+#@ themeton
+msgid "Color"
+msgstr ""
+
+#: framework/current/vc-elements/price_table.php:64
+#@ themeton
+msgid "Title Position"
+msgstr ""
+
+#: framework/current/vc-elements/price_table.php:79
+#@ themeton
+msgid "Per Year"
+msgstr ""
+
+#: framework/current/vc-elements/price_table.php:103
+#@ themeton
+msgid "Button Text"
+msgstr ""
+
+#: framework/current/vc-elements/price_table.php:109
+#@ themeton
+msgid "Button Link"
+msgstr ""
+
+#: framework/current/vc-elements/progress-bar.php:42
+#@ themeton
+msgid "Progress Bar"
+msgstr ""
+
+#: framework/current/vc-elements/progress-bar.php:43
+#@ themeton
+msgid "Show Process"
+msgstr ""
+
+#: framework/current/vc-elements/progress-bar.php:53
+#@ themeton
+msgid "Style"
+msgstr ""
+
+#: framework/current/vc-elements/progress-bar.php:68
+#@ themeton
+msgid "Precentage"
+msgstr ""
+
+#: framework/current/vc-elements/progress-bar.php:74
+#@ themeton
+msgid "Precentage color"
+msgstr ""
+
+#: framework/current/vc-elements/progress-bar.php:81
+#@ themeton
+msgid "Precentage background color"
+msgstr ""
+
+#: framework/current/vc-elements/project-logo.php:34
+#: framework/current/vc-elements/project-logo.php:35
+#@ themeton
+msgid "Project with Logo"
+msgstr ""
+
+#: framework/current/vc-elements/project-logo.php:44
+#@ themeton
+msgid "Logo"
+msgstr ""
+
+#: framework/current/vc-elements/project-logo.php:56
+#@ themeton
+msgid "Project Name"
+msgstr ""
+
+#: framework/current/vc-elements/service-box.php:37
+#@ themeton
+msgid "Service Box"
+msgstr ""
+
+#: framework/current/vc-elements/service-box.php:38
+#@ themeton
+msgid "Service item"
+msgstr ""
+
+#: framework/current/vc-elements/tabbed-team-container.php:26
+#@ themeton
+msgid "Tabbed Team Carousel"
+msgstr ""
+
+#: framework/current/vc-elements/tabbed-team-container.php:27
+#@ themeton
+msgid "Tabbed Team Container"
+msgstr ""
+
+#: framework/current/vc-elements/tabbed_team.php:35
+#@ themeton
+msgid "Tabbed Team"
+msgstr ""
+
+#: framework/current/vc-elements/tabbed_team.php:36
+#@ themeton
+msgid "Team members in tab"
+msgstr ""
+
+#: framework/current/vc-elements/tabbed_team.php:65
+#@ themeton
+msgid "About"
+msgstr ""
+
+#: framework/current/vc-elements/team-carousel.php:26
+#@ themeton
+msgid "Amazing Team Carousel"
+msgstr ""
+
+#: framework/current/vc-elements/team-carousel.php:27
+#@ themeton
+msgid "Team Carousel"
+msgstr ""
+
+#: framework/current/vc-elements/team-item.php:24
+#@ themeton
+msgid "Team Item"
+msgstr ""
+
+#: framework/current/vc-elements/team-item.php:25
+#@ themeton
+msgid "Carousel Item"
+msgstr ""
+
+#: framework/current/vc-elements/testimonial-container.php:30
+#@ themeton
+msgid "Circle Testimonial Carousel"
+msgstr ""
+
+#: framework/current/vc-elements/testimonial-container.php:31
+#@ themeton
+msgid "Testimonial Slider"
+msgstr ""
+
+#: framework/current/vc-elements/testimonial.php:40
+#@ themeton
+msgid "Boxed Testimonial"
+msgstr ""
+
+#: framework/current/vc-elements/testimonial.php:70
+#@ themeton
+msgid "Company"
+msgstr ""
+
+#: framework/current/vc-elements/timeline-carousel-container.php:26
+#@ themeton
+msgid "Timeline Carousel"
+msgstr ""
+
+#: framework/current/vc-elements/timeline-carousel-container.php:27
+#: framework/current/vc-elements/timeline.php:32
+#: framework/current/vc-elements/timeline.php:33
+#@ themeton
+msgid "Timeline"
+msgstr ""
+
+#: framework/current/vc-elements/timeline.php:49
+#@ themeton
+msgid "Date"
+msgstr ""
+
+#: framework/functions/functions.breadcrumb.php:79
+#@ themeton
+msgid "Error 404: Page not found"
+msgstr ""
+
+#: framework/functions/functions.breadcrumb.php:80
+#@ themeton
+msgid "Archives for"
+msgstr ""
+
+#: framework/functions/functions.breadcrumb.php:81
+#: tpl-page-title.php:36
+#@ themeton
+msgid "Home"
+msgstr ""
+
+#: framework/functions/functions.breadcrumb.php:82
+#@ themeton
+msgid "You searched for"
+msgstr ""
+
+#: framework/functions/functions.for.theme.php:80
+#@ themeton
+msgid "Comments"
+msgstr ""
+
+#: framework/functions/functions.for.theme.php:82
+#@ themeton
+msgid "Comment"
+msgstr ""
+
+#: framework/functions/functions.for.theme.php:85
+#@ themeton
+msgid "No Comment"
+msgstr ""
+
+#: framework/functions/functions.for.theme.php:176
+#@ themeton
+msgid "Written by "
+msgstr ""
+
+#: framework/functions/functions.for.theme.php:184
+#@ themeton
+msgid "The author didnt add any Information to his profile yet"
+msgstr ""
+
+#: framework/functions/functions.for.theme.php:203
+#@ themeton
+msgid "Share"
+msgstr ""
+
+#: framework/functions/functions.for.theme.php:245
+#@ themeton
+msgid "Site Customize"
+msgstr ""
+
+#: framework/functions/functions.for.theme.php:252
+#@ themeton
+msgid "Import Demo"
+msgstr ""
+
+#: framework/functions/plugin-install.php:69
+#@ tgmpa
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/functions/plugin-install.php:82
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: framework/widgets/social_links_widget.php:59
+#@ default
+msgid "titletitle"
+msgstr ""
+
+#: framework/widgets/social_links_widget.php:66
+#@ default
+msgid "social_social_"
+msgstr ""
+
+#: functions.php:78
+#@ themeton
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:79
+#@ themeton
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:104
+#@ themeton
+msgid "Footer Area"
+msgstr ""
+
+#: functions.php:125
+#@ themeton
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: tpl-page-title.php:18
+#, php-format
+#@ themeton
+msgid "Category: %s"
+msgstr ""
+
+#: tpl-page-title.php:22
+#: tpl-page-title.php:24
+#@ themeton
+msgid "Shop"
+msgstr ""
+
+#: tpl-page-title.php:34
+#@ themeton
+msgid "Projects"
+msgstr ""
+
